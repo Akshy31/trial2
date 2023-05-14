@@ -1,3 +1,2 @@
 this is a2 file
-we will make it conflict
-without conflict
+
